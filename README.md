@@ -23,7 +23,7 @@ It was build using rack, so it should be very simple to start:
 
 ## Modified version
 
-You can downloas the modified [chardinjs.min.js][2] or if it is pulled, also in the [Original][3] repo;
+You can download the modified [chardinjs.min.js][2] or if it is pulled, also in the [Original][3] repo;
 
 ## License
 
@@ -43,4 +43,4 @@ limitations under the License.
 
  [1]: https://github.com/felipeclopes
  [2]: https://github.com/felipeclopes/chardin.js/blob/master/chardinjs.min.js
- [2]: https://github.com/heelhook
+ [3]: https://github.com/heelhook
