@@ -2,7 +2,7 @@
 
 **Basic usage of a slightly modified version of chardin.js.**
 
-This version presents highlighting without the tooltip details! For empty data-intro elements
+This version presents highlighting without the tooltip details! For empty data-intro elements see the [online example][4]
 
 Chardin.js is a jQuery plugin that creates a simple overlay to display instructions on existent elements. 
 
@@ -44,3 +44,4 @@ limitations under the License.
  [1]: https://github.com/felipeclopes
  [2]: https://github.com/felipeclopes/chardin.js/blob/master/chardinjs.min.js
  [3]: https://github.com/heelhook
+ [4]: http://chardinjs-felipeclopes.herokuapp.com/
