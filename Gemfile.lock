@@ -1,10 +1,10 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    Rack (2.0.0)
+    rack (1.5.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  Rack
+  rack
